@@ -5,7 +5,7 @@
 ## Run in local
 * ```bundle install```
 * ```rails server```
-## Available deploy in heroku
+## Available deploying in heroku
 ## Reference
 * David Heinemeier Hansson
 * https://blog.heroku.com/real_time_rails_implementing_websockets_in_rails_5_with_action_cable
