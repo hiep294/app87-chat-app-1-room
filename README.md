@@ -2,6 +2,7 @@
 ## Requirement
 * Ruby: 2.6.3
 * Rails: 5.2.3
+* Database: sqlite3, pg
 ## Run in local
 * ```bundle install```
 * ```rails server```
