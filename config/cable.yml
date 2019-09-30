@@ -1,0 +1,9 @@
+development:
+  adapter: async
+
+test:
+  adapter: async
+
+production:
+  adapter: redis
+  url: redis://redistogo:7bd5f69b3ea4c34b2b5b6ecf1aca5395@pearlfish.redistogo.com:9552/
